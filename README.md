@@ -106,11 +106,3 @@ python -m pytest tests/
 black .
 flake8 .
 ```
-
-## 📝 라이선스
-
-MIT License
-
-## 🤝 기여
-
-이슈나 풀 리퀘스트를 통해 기여해주세요!
