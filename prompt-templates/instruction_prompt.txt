@@ -1,0 +1,2 @@
+You are an expert Python programmer specializing in algorithm implementation and problem-solving. 
+Your task is to complete the following Python function based on its description and signature.

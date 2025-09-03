@@ -1,0 +1,17 @@
+# HumanEval 프롬프트 최적화 프로젝트 의존성
+
+# Core dependencies
+gepa>=0.0.7
+litellm>=1.0.0
+pydantic>=2.0.0
+datasets>=2.0.0
+
+# Optional dependencies for enhanced functionality
+python-dotenv>=1.0.0  # 환경 변수 관리
+wandb>=0.15.0         # 실험 추적 (선택사항)
+
+# Development dependencies (선택사항)
+pytest>=7.0.0         # 테스트
+black>=23.0.0         # 코드 포맷팅
+flake8>=6.0.0         # 린팅
+mypy>=1.0.0           # 타입 체킹
